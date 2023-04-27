@@ -7,6 +7,7 @@ function start(event) {
     console.log("Hello Ali");
     alifunc()
     chrisFunction();
+    twoConsoleLines();
 }
 
 function alifunc() {
@@ -14,4 +15,9 @@ function alifunc() {
 }
 function chrisFunction () {
     console.log("Chris was here!");
+}
+
+function twoConsoleLines () {
+    console.log("one");
+    console.log("two");
 }
