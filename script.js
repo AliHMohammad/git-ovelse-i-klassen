@@ -4,5 +4,5 @@
 window.addEventListener("load", start);
 
 function start(event) {
-    console.log("Hello world");
+    console.log("Hello Ali");
 }
