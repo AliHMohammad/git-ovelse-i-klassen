@@ -10,6 +10,7 @@ function start(event) {
     chrisFunction();
     treLogs();
     twoConsoleLines();
+    testtest();
     neeeeej();
 }
 
@@ -37,4 +38,8 @@ function aliÆndringer() {
 
 function neeeeej() {
     console.log("lol");
+}
+
+function testtest () {
+    console.log("this is a test");
 }
