@@ -28,12 +28,12 @@ function treLogs() {
 }
 
 function twoConsoleLines () {
-    console.log("one");
-    console.log("two");
+    console.log("1");
+    console.log("firefire");
 }
 
 function aliÆndringer() {
-    console.log("Nej");
+    console.log("Den her er ændret");
 }
 
 function neeeeej() {
@@ -42,4 +42,5 @@ function neeeeej() {
 
 function testtest () {
     console.log("this is a test");
+    console.log("testest nej nej");
 }
