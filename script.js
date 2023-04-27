@@ -10,7 +10,7 @@ function start(event) {
     chrisFunction();
     treLogs();
     twoConsoleLines();
-    
+    neeeeej();
 }
 
 function alifunc() {
@@ -33,4 +33,8 @@ function twoConsoleLines () {
 
 function aliÆndringer() {
     console.log("Nej");
+}
+
+function neeeeej() {
+    console.log("lol");
 }
