@@ -19,9 +19,9 @@ function chrisFunction () {
 }
 
 function treLogs() {
-    console.log(1);
-    console.log(2);
-    console.log(3);
+    console.log(1234);
+    console.log(23456);
+    console.log(3456789);
 }
 
 function twoConsoleLines () {
