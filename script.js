@@ -5,6 +5,7 @@ window.addEventListener("load", start);
 
 function start(event) {
     console.log("Hello Ali");
+    aliÆndringer();
     alifunc()
     chrisFunction();
     treLogs();
@@ -28,6 +29,10 @@ function treLogs() {
 function twoConsoleLines () {
     console.log("one");
     console.log("two");
+}
+
+function aliÆndringer() {
+    console.log("Nej");
 }
 
 function testtest () {
