@@ -9,6 +9,7 @@ function start(event) {
     chrisFunction();
     treLogs();
     twoConsoleLines();
+    testtest();
 }
 
 function alifunc() {
@@ -27,4 +28,8 @@ function treLogs() {
 function twoConsoleLines () {
     console.log("one");
     console.log("two");
+}
+
+function testtest () {
+    console.log("this is a test");
 }
