@@ -7,6 +7,7 @@ function start(event) {
     console.log("Hello Ali");
     alifunc()
     chrisFunction();
+    treLogs();
 }
 
 function alifunc() {
@@ -14,4 +15,10 @@ function alifunc() {
 }
 function chrisFunction () {
     console.log("Chris was here!");
+}
+
+function treLogs() {
+    console.log(1);
+    console.log(2);
+    console.log(3);
 }
